@@ -1,4 +1,3 @@
-using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.OpenApi.Models;
 using QueueService.Api.Extensions;
 
